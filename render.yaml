@@ -1,0 +1,6 @@
+services:
+
+* type: web
+  name: jiotv
+  env: docker
+  plan: free
